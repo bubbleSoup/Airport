@@ -1,4 +1,4 @@
-package javaapplication1;
+package Airport2;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.HashMap;
