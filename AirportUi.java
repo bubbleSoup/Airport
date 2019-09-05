@@ -1,4 +1,4 @@
-package javaapplication1;
+package Airport2;
 import java.util.Scanner;
 import java.util.HashMap;
 
@@ -8,7 +8,7 @@ import java.util.HashMap;
  * 
 **/
 
-public class AirportUi {
+public class AirportUi { 
     
     private HashMap<String, Flight> flights;
     private HashMap<String, AirplaneAirport> planes;
